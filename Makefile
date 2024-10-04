@@ -6,7 +6,7 @@
 #    By: trsmith <trsmith@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/05/27 14:09:25 by trsmith           #+#    #+#              #
-#    Updated: 2024/05/27 14:15:25 by trsmith          ###   ########.fr        #
+#    Updated: 2024/10/04 14:34:28 by trsmith          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,7 +24,7 @@ LIBFTSRCS =	ft_atoi.c ft_bzero.c ft_calloc.c ft_isalnum.c ft_isalpha.c \
 			ft_putendl_fd.c ft_putnbr_fd.c ft_putstr_fd.c ft_split.c ft_strchr.c \
 			ft_strdup.c ft_striteri.c ft_strjoin.c ft_strlcat.c ft_strlcpy.c ft_strlen.c ft_strmapi.c\
 			ft_strncmp.c ft_strnstr.c ft_strrchr.c ft_strtrim.c ft_substr.c \
-			ft_tolower.c ft_toupper.c
+			ft_tolower.c ft_toupper.c ft_atol.c ft_wordcount.c ft_strcmp.c
 
 PRINTFSRCS =ft_print_char.c\
             ft_print_numptr.c\
